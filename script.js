@@ -1,3 +1,4 @@
+console.log('script.js is loaded');
 const elements = [
     {
         name: "Hydrogen",
